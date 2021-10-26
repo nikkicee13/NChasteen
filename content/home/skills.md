@@ -16,10 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 50%
-  icon: wix
+- description: 100%
+  icon: apple-brands
   icon_pack: fab
-  name: Wix
+  name: Apple
 - description: 100%
   icon: slack-brands
   icon_pack: custom
