@@ -24,10 +24,10 @@ feature:
   icon: Slack
   icon_pack: fab
   name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- description: 30%
+  icon: assets/media/icons/zotero.svg
+  icon_pack: custom
+  name: Zotero
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
