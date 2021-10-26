@@ -21,8 +21,8 @@ feature:
   icon_pack: fab
   name: Wix
 - description: 100%
-  icon: chart-line
-  icon_pack: fas
+  icon: Slack
+  icon_pack: fab
   name: Statistics
 - description: 10%
   icon: camera-retro
