@@ -23,7 +23,7 @@ feature:
 - description: 100%
   icon: Slack
   icon_pack: fab
-  name: Statistics
+  name: Slack
 - description: 30%
   icon: assets/media/icons/zotero.svg
   icon_pack: custom
