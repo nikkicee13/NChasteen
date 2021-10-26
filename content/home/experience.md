@@ -25,7 +25,7 @@ experience:
   - title: Assistant Director
     company: Nova Southeastern University Writing and Communication Center
     company_url: 'www.nova.edu/wcc'
-    company_logo: ''
+    company_logo: org-gc
     location: Florida
     date_start: '2018-01-02'
     date_end: ''
