@@ -21,12 +21,12 @@ feature:
   icon_pack: fab
   name: Wix
 - description: 100%
-  icon: Slack
-  icon_pack: fab
+  icon: slack-brands
+  icon_pack: custom
   name: Slack
 - description: 30%
-  icon: assets/media/icons/zotero.svg
-  icon_pack: ai
+  icon: Zotero
+  icon_pack: custom
   name: Zotero
 
 # Uncomment to use emoji icons.
