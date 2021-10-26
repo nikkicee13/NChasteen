@@ -26,7 +26,7 @@ feature:
   name: Slack
 - description: 30%
   icon: assets/media/icons/zotero.svg
-  icon_pack: custom
+  icon_pack: ai
   name: Zotero
 
 # Uncomment to use emoji icons.
