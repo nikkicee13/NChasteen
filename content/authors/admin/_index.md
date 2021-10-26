@@ -27,7 +27,7 @@ education:
   courses:
   - course: MA in Composition, Rhetoric, and Digital Media
     institution: Nova Southeastern University
-    year: 202
+    year: 2020
   - course: BA in Communication/Public Relations
     institution: Nova Southeastern University
     year: 2017
