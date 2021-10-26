@@ -25,7 +25,7 @@ feature:
   icon_pack: custom
   name: Slack
 - description: 30%
-  icon: Zotero
+  icon: zotero-square
   icon_pack: custom
   name: Zotero
 
