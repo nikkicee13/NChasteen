@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 100%
   icon: apple-brands
-  icon_pack: fab
+  icon_pack: custom
   name: Apple
 - description: 100%
   icon: slack-brands
