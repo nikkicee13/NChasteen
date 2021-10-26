@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nikki Chasteen
+title: Nikki Chasteen, M.A.
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ bio: My research interests include online writing instruction, Community of Prac
 
 # Interests to show in About widget
 interests:
-- Basic Writing
+- Composition
 - Rhetoric
 - Online writing instruction and literacy
 
@@ -31,9 +31,9 @@ education:
   - course: BA in Communication/Public Relations
     institution: Nova Southeastern University
     year: 2017
-  - course: ''
-    institution: ''
-    year: ''
+  - course: AA in General Studies
+    institution: Palm Beach Community College
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
