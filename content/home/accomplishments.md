@@ -4,7 +4,7 @@
 widget: accomplishments
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 50
@@ -22,7 +22,7 @@ subtitle:
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item: GSOLE 2022 Conference Committee
+-item: GSOLE 2022 Conference Committee
 #- certificate_url: ''
 # date_end: ''
 #  date_start: ''
