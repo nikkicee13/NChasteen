@@ -13,7 +13,7 @@ weight: 50
 title: 'Accomplish&shy;ments'
 subtitle:
 
-Date format
+#Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
