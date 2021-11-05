@@ -13,6 +13,9 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60  
+  - name: Accomplishments
+    url: '#accomplishments'
+    weight: 70    
   - name: CV
     url: static/files/resume.pdf
-    weight: 70
+    weight: 80
