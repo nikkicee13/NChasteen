@@ -10,11 +10,11 @@ main:
   - name: Publications
     url: '#featured'
     weight: 50
-  - name: Contact
-    url: '#contact'
-    weight: 60  
   - name: Accomplishments
     url: '#accomplishments'
+    weight: 60   
+  - name: Contact
+    url: '#contact'
     weight: 70    
   - name: CV
     url: static/files/resume.pdf
