@@ -13,9 +13,9 @@ weight: 50
 title: 'Accomplish&shy;ments'
 subtitle:
 
-# Date format
+Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-# date_format: Jan 2006
+date_format: Jan 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -25,7 +25,7 @@ subtitle:
 -item: GSOLE 2022 Conference Committee
 #- certificate_url: ''
 # date_end: ''
-#  date_start: ''
+date_start: Aug 2021
 description: Proposal Scorer, General Member for committee planning
 organization: Global Society of Online Literacy Education (GSOLE)
 organization_url: gsole.org
