@@ -4,7 +4,7 @@
 widget: pages
 
 # This file represents a page section.
-active: false
+headless: false
 
 # Order that this section appears on the page.
 weight: 70
@@ -12,13 +12,13 @@ weight: 70
 #title: 'Recent & Upcoming Talks'
 subtitle:
 
-#content:
+content:
   # Page type to display. E.g. post, event, publication...
   page_type: event
   # Choose how many pages you would like to display (0 = all pages)
   count: 5
   Filter on criteria
-  #filters:
+  filters:
     author: ""
     category: ""
     tag: ""
