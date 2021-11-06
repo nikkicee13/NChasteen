@@ -48,7 +48,7 @@ social:
   link: https://www.linkedin.com/in/nikkichasteenma/
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: static/uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -59,4 +59,4 @@ highlight_name: true
 
 Nikki Chasteen, M.A. is the Assistant Director at the Nova Southeastern University Writing and Communication Center. Nikki also serves as the membership officer for the Global Society of Online Literacy Educators (GSOLE).
 
-{{< icon name="download" pack="fas" >}} Download Nikki's {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download Nikki's {{< staticref "static/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
