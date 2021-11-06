@@ -22,9 +22,10 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
--item: GSOLE 2022 Conference Committee
+-item:
+-organization: GSOLE 2022 Conference Committee
 #- certificate_url: ''
-# date_end: ''
+ date_end: ""
 date_start: Aug 2021
 description: Proposal Scorer, General Member for committee planning
 organization: Global Society of Online Literacy Education (GSOLE)
