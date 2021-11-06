@@ -17,5 +17,5 @@ main:
     url: '#contact'
     weight: 70    
   - name: CV
-    url: uploads/cv.pdf
+    url: uploads/resume.pdf
     weight: 80
