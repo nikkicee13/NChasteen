@@ -26,7 +26,7 @@ item:
 - organization: GSOLE 2022 Conference Committee
   certificate_url: ""
   date_end: ''
-  date_start: 01-08-2021
+  date_start: 2021-08-01
   description: Proposal Scorer, General Member for committee planning
   organization: Global Society of Online Literacy Education (GSOLE)
   organization_url: gsole.org
