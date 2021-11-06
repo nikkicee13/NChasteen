@@ -24,14 +24,14 @@ date_format: Jan 2006
 experience:
   - title: Assistant Director
     company: Nova Southeastern University Writing and Communication Center
-    company_url: 'www.nova.edu/wcc'
+    company_url: 'https://www.nova.edu/wcc'
     company_logo: ''
     location: Florida
     date_start: '2018-01-02'
     date_end: ''
   - title: Adjunct Instructor
     company: Nova Southeastern University
-    company_url: 'www.nova.edu'
+    company_url: 'https://www.nova.edu'
     company_logo: ''
     location: Florida
     date_start: '2020-08-01'
