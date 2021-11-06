@@ -29,7 +29,7 @@ item:
   date_start: 2021-08-01
   description: Proposal Scorer, General Member for committee planning
   organization: Global Society of Online Literacy Education (GSOLE)
-  organization_url: gsole.org
+  organization_url: 'gsole.org'
 # title: ''
 # url: ""
 
