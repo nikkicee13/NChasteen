@@ -29,10 +29,10 @@ address:
   postcode: ''
   country: United States
   country_code: US
-coordinates:
-  latitude: ''
-  longitude: ''
-directions: ''
+#coordinates:
+#  latitude: ''
+#  longitude: ''
+#directions: ''
 office_hours: ''
 appointment_url: ''
 contact_links:

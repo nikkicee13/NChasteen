@@ -21,13 +21,14 @@ interests:
 - Composition
 - Rhetoric
 - Online writing instruction and literacy
+- Gender and feminist studies
 
 # Education to show in About widget
 education:
   courses:
   - course: MA in Composition, Rhetoric, and Digital Media
     institution: Nova Southeastern University
-    year: 202
+    year: 2020
   - course: BA in Communication/Public Relations
     institution: Nova Southeastern University
     year: 2017
