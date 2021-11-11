@@ -21,20 +21,20 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: nikkicee13@knights.ucf.edu
-phone: ''
+phone: 
 address:
-  street: ''
-  city: ''
-  region: ''
-  postcode: ''
-  country: United States
-  country_code: US
-#coordinates:
-#  latitude: ''
-#  longitude: ''
-#directions: ''
-office_hours: ''
-appointment_url: ''
+  street: 
+  city: 
+  region: 
+  postcode: 
+  country:
+  country_code: 
+coordinates:
+  latitude:
+  longitude:
+directions: 
+office_hours:
+appointment_url: 
 contact_links:
   
 
